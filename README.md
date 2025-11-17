@@ -35,7 +35,3 @@ This project contains Python programs for reading, writing, and appending data t
 Run Task 2:
 
   python3 task2.py
-
-bash
-Copy code
-python3 task2.py
