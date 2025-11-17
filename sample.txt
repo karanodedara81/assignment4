@@ -1,0 +1,3 @@
+Hello ! my name is karan .
+How is your day ?
+This is python program about file handling and exception handling.
